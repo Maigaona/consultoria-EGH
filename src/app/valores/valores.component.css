@@ -1,0 +1,29 @@
+.celda {
+}
+
+.table {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 12px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 100px;
+  font-family: 'Nunito';
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+h3 {
+  font-family: 'Nunito';
+}
+
+p {
+  font-family: 'Manrope';
+}

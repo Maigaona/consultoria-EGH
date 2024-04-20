@@ -1,0 +1,29 @@
+.table {
+  display: flex;
+}
+
+#descripcion {
+  width: 40%;
+  padding-right: 10%;
+}
+
+#privacidad {
+  width: 40%;
+}
+
+#social {
+  width: 20%;
+}
+section {
+  background-color: lightblue;
+  padding-top: 6%;
+  padding-bottom: 8%;
+}
+
+h3 {
+  font-family: 'Nunito';
+}
+
+p {
+  font-family: 'Manrope';
+}

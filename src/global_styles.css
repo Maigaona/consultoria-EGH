@@ -1,0 +1,13 @@
+/* Add application styles & imports to this file! */
+@font-face {
+  font-family: Nunito;
+  src: url(assets/Nunito-VariableFont_wght.ttf) format('trueType');
+}
+@font-face {
+  font-family: Manrope;
+  src: url(assets/Manrope-VariableFont_wght.ttf) format('trueType');
+}
+section {
+  padding-right: 10%;
+  padding-left: 10%;
+}

@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  font-family: 'Nunito';
+}
+
+h3 {
+  font-family: 'Manrope';
+}
+p {
+  font-family: 'Manrope';
+  text-align: center;
+}
+
+div {
+  width: 70%;
+  margin: auto;
+}
