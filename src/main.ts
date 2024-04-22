@@ -6,6 +6,7 @@ import { ValoresComponent } from './app/valores/valores.component';
 import { ImagenComponent } from './app/imagen/imagen.component';
 import { FooterComponent } from './app/footer/footer.component';
 import { HeaderComponent } from './app/header/header.component';
+import { NosotrosComponent } from './app/nosotros/nosotros.component';
 
 @Component({
   selector: 'app-root',
@@ -15,13 +16,15 @@ import { HeaderComponent } from './app/header/header.component';
     ValoresComponent,
     ImagenComponent,
     FooterComponent,
-    HeaderComponent
+    HeaderComponent,
+    NosotrosComponent
   ],
   template: `
   <app-header></app-header>
     <app-mision></app-mision>
     <app-valores></app-valores>
     <app-imagen></app-imagen>
+    <app-nosotros></app-nosotros>
     <app-footer></app-footer>
   `,
 })
