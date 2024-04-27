@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 import { MisionComponent } from '../mision/mision.component';
+import { ValoresComponent } from '../valores/valores.component';
+import { ImagenComponent } from '../imagen/imagen.component';
 
 @Component({
   selector: 'app-inicio',

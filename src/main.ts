@@ -19,7 +19,7 @@ import { ContactoComponent } from './app/contacto/contacto.component';
    
   ],
   template: `
-  <app-header></app-header>
+    <app-header></app-header>
     <router-outlet></router-outlet>
     <app-footer></app-footer>
   `,

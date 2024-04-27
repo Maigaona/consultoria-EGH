@@ -8,7 +8,7 @@ img {
 }
 
 div {
-    margin: auto;
+    text-align: center;
 }
 
 
@@ -22,6 +22,6 @@ p {
 }
 
 section {
-    padding-top: 6%;
+    padding-top: 3%;
     padding-bottom: 8%
   }

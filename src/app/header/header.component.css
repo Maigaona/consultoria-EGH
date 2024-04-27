@@ -20,8 +20,24 @@ h3 {
  margin-left: 10px;
 }
 
-p {
-    font-family: "Manrope"
+a {
+    font-family: "Manrope";
+    text-decoration: none;
+}
+/*link no visitado*/
+a:link {
+  color: blue;
+
+}
+
+/* Link visitado*/
+a:visited {
+  color: blue;
+}
+
+/* mouse sobre el link */
+a:hover {
+  color: #038FD1;
 }
 section {
     padding-bottom: 10px;
