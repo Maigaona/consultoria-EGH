@@ -1,0 +1,39 @@
+input[type="text"], textarea {
+    border: solid 1px blue;
+    padding: 10px;
+    border-radius: 8px;
+    margin-right: 4px;
+    display: inline-block;
+    width: 100%;
+    font-family: "Nunito";
+}
+  
+input[type=submit] {
+    padding: 10px;
+    border: solid 1px blue;
+    background: blue;
+    color: white;
+    border-radius: 8px;
+}
+
+label{
+    font-family: "Nunito";
+}
+h1 {
+    font-family: "Nunito";
+    text-align: center;
+}
+#formulario {
+    margin: auto;
+    width: 40%;
+    row-gap: 15px;
+    padding-bottom: 8%;
+}
+.campo {
+    width: 100%;
+    text-align: start;
+    margin-bottom: 10px;
+}
+.alto {
+    height: 80px;
+}
