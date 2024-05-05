@@ -27,3 +27,9 @@ h3 {
 p {
   font-family: 'Manrope';
 }
+
+a {
+  text-decoration: none;
+  font-family: 'Manrope';
+  color: black;
+}
