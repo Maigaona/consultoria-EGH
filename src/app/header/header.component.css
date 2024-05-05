@@ -20,26 +20,46 @@ h3 {
  margin-left: 10px;
 }
 
-a {
+.botonera > a {
     font-family: "Manrope";
     text-decoration: none;
 }
 /*link no visitado*/
-a:link {
+.botonera > a:link {
   color: blue;
 
 }
 
 /* Link visitado*/
-a:visited {
+.botonera > a:visited {
   color: blue;
 }
 
 /* mouse sobre el link */
-a:hover {
+.botonera > a:hover {
   color: #038FD1;
 }
 section {
     padding-bottom: 10px;
     padding-top: 10px;
+}
+
+.logo {
+  text-decoration: none
+}
+
+/*link no visitado*/
+.logo:link {
+  color: black;
+
+}
+
+/* Link visitado*/
+.logo:visited {
+  color: black;
+}
+
+/* mouse sobre el link */
+.logo:hover {
+  color: black;
 }
